@@ -1,0 +1,10 @@
+C:\Users\Kənan\source\repos\Anket2\Anket2\bin\Debug\Anket2.exe.config
+C:\Users\Kənan\source\repos\Anket2\Anket2\bin\Debug\Anket2.exe
+C:\Users\Kənan\source\repos\Anket2\Anket2\bin\Debug\Anket2.pdb
+C:\Users\Kənan\source\repos\Anket2\Anket2\obj\Debug\Anket2.csproj.AssemblyReference.cache
+C:\Users\Kənan\source\repos\Anket2\Anket2\obj\Debug\Anket2.Form1.resources
+C:\Users\Kənan\source\repos\Anket2\Anket2\obj\Debug\Anket2.Properties.Resources.resources
+C:\Users\Kənan\source\repos\Anket2\Anket2\obj\Debug\Anket2.csproj.GenerateResource.cache
+C:\Users\Kənan\source\repos\Anket2\Anket2\obj\Debug\Anket2.csproj.CoreCompileInputs.cache
+C:\Users\Kənan\source\repos\Anket2\Anket2\obj\Debug\Anket2.exe
+C:\Users\Kənan\source\repos\Anket2\Anket2\obj\Debug\Anket2.pdb
